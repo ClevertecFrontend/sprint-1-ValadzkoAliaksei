@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "e2e tests",
+            "setup": "yarn",
+            "run": "yarn run e2e:run",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": null
+        }
+    ]
+}
